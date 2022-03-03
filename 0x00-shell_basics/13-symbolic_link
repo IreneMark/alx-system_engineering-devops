@@ -1,2 +1,2 @@
 #!/bin/bash
--rwxr--r-- 1 root root 29 Mar _ls_
+ln /bin/ls __ls__
